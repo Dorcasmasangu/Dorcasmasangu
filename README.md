@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dorcasmasangu
 - 👀 I’m interested in the programmation 
-- 🌱 I’m currently learning l'html
+- 🌱 I’m currently learning l'html CSS JavaScript and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: 
